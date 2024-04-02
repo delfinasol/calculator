@@ -6,7 +6,7 @@
 }
 
 body {
-    min-height: 100vh;
+    min-height: 101vh;
     display: grid;
     background-color: darkseagreen;
     place-items: center;
